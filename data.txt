@@ -1,0 +1,10 @@
+sai,25,Math
+ravi,22,Computer Science
+raju,24,Physics
+manoj,23,Chemistry
+akhil,21,chemistry
+aditya,22,history
+lalit,23,Art
+siva,24,English
+krishna,22,Biology
+murthy,25,Math
